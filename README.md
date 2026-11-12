@@ -6,7 +6,7 @@ Notebooks on word embeddings and sentence (news) classification: exploring pretr
 
 ## Theory
 
-Lecture notes for this topic are coming soon on https://parag1604.github.io/notes
+Please note that the theory corresponding to the codes is hosted on this [page](https://parag1604.github.io/notes/Machine-Learning/Applications-of-Neural-Networks#sequences-and-text-classification) (sections "Sequences and text classification" and "Attention and transformers")
 
 ## Python Environment Setup
 
