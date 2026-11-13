@@ -6,7 +6,9 @@ Notebooks on word embeddings and sentence (news) classification: exploring pretr
 
 ## Theory
 
-Please note that the theory corresponding to the codes is hosted on this [page](https://parag1604.github.io/notes/Machine-Learning/Applications-of-Neural-Networks#sequences-and-text-classification) (sections "Sequences and text classification" and "Attention and transformers")
+Please note that the theory corresponding to the codes is hosted on these pages:
+- [Language Representations and Language Models](https://parag1604.github.io/notes/Machine-Learning/Language-Representations-and-Language-Models#static-word-embeddings): word2vec, GloVe, and concepts as directions.
+- [Sequence Models](https://parag1604.github.io/notes/Machine-Learning/Sequence-Models#sequences-and-text-classification): RNNs, LSTMs, attention and transformers for text classification.
 
 ## Python Environment Setup
 
